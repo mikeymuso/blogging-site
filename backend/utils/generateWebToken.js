@@ -1,0 +1,9 @@
+import jwt from 'jsonwebtoken';
+
+const generateToken = (id, isAdmin) => {
+  return jwt.sign({ id, isAdmin }, process.env.TOKEN_SECRET, {
+    expiresIn: '1d',
+  });
+};
+
+export default generateToken;

@@ -1,0 +1,27 @@
+main {
+  min-height: 90vh;
+}
+
+table,
+th,
+tr,
+td {
+  padding: 0.7rem !important;
+  font-size: 0.7rem;
+}
+
+.cell-centered {
+  text-align: center;
+}
+
+.edit-icon:hover > i {
+  color: greenyellow;
+}
+
+.delete-icon:hover > i {
+  color: red;
+}
+
+textarea {
+  resize: none !important;
+}
