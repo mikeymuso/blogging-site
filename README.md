@@ -12,8 +12,8 @@ I intend to begin using this site as a outlet for my own blogs and as a way of r
 
 ## Project Screen Shots
 
-![home page](https://github.com/mikeymuso/blog-site/blob/master/frontend/public/images/blogging-site.png)
-![admin page](https://github.com/mikeymuso/blog-site/blob/master/frontend/public/images/admin-view.png)
+![home page](https://github.com/mikeymuso/blogging-site/blob/master/frontend/public/images/blogging-site.png)
+![admin page](https://github.com/mikeymuso/blogging-site/blob/master/frontend/public/images/admin-view.png)
 
 ## Installation and Setup Instructions
 
